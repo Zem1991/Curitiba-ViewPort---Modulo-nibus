@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="CVP_PosicaoOnibusModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="PosicaoGPS">
+    <Key>
+      <PropertyRef Name="PGPS_ID" />
+    </Key>
+    <Property Name="PGPS_ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="VEIC" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="LAT" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="LON" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="DTHR" Type="DateTime" Precision="3" />
+    <Property Name="COD_LINHA" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <EntityContainer Name="CVP_PosicaoOnibusEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="PosicaoGPS" EntityType="Self.PosicaoGPS" />
+  </EntityContainer>
+</Schema>

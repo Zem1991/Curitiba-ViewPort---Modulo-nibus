@@ -1,0 +1,20 @@
+c:\users\dienercomp\documents\visual studio 2017\Projects\WCFCVP\WCFCVP\bin\WCFCVP.dll.config
+c:\users\dienercomp\documents\visual studio 2017\Projects\WCFCVP\WCFCVP\bin\WCFCVP.dll
+c:\users\dienercomp\documents\visual studio 2017\Projects\WCFCVP\WCFCVP\bin\WCFCVP.pdb
+c:\users\dienercomp\documents\visual studio 2017\Projects\WCFCVP\WCFCVP\bin\EntityFramework.dll
+c:\users\dienercomp\documents\visual studio 2017\Projects\WCFCVP\WCFCVP\bin\EntityFramework.SqlServer.dll
+c:\users\dienercomp\documents\visual studio 2017\Projects\WCFCVP\WCFCVP\bin\EntityFramework.xml
+c:\users\dienercomp\documents\visual studio 2017\Projects\WCFCVP\WCFCVP\bin\EntityFramework.SqlServer.xml
+c:\users\dienercomp\documents\visual studio 2017\Projects\WCFCVP\WCFCVP\obj\Debug\WCFCVP.csprojResolveAssemblyReference.cache
+c:\users\dienercomp\documents\visual studio 2017\Projects\WCFCVP\WCFCVP\obj\Debug\WCFCVP.dll
+c:\users\dienercomp\documents\visual studio 2017\Projects\WCFCVP\WCFCVP\obj\Debug\WCFCVP.pdb
+D:\Dropbox\TCC\Curitiba ViewPort - Modulo Ônibus\Assets\ClientProxies\WCFCVP\bin\WCFCVP.dll.config
+D:\Dropbox\TCC\Curitiba ViewPort - Modulo Ônibus\Assets\ClientProxies\WCFCVP\bin\WCFCVP.dll
+D:\Dropbox\TCC\Curitiba ViewPort - Modulo Ônibus\Assets\ClientProxies\WCFCVP\bin\WCFCVP.pdb
+D:\Dropbox\TCC\Curitiba ViewPort - Modulo Ônibus\Assets\ClientProxies\WCFCVP\bin\EntityFramework.dll
+D:\Dropbox\TCC\Curitiba ViewPort - Modulo Ônibus\Assets\ClientProxies\WCFCVP\bin\EntityFramework.SqlServer.dll
+D:\Dropbox\TCC\Curitiba ViewPort - Modulo Ônibus\Assets\ClientProxies\WCFCVP\bin\EntityFramework.xml
+D:\Dropbox\TCC\Curitiba ViewPort - Modulo Ônibus\Assets\ClientProxies\WCFCVP\bin\EntityFramework.SqlServer.xml
+D:\Dropbox\TCC\Curitiba ViewPort - Modulo Ônibus\Assets\ClientProxies\WCFCVP\obj\Debug\WCFCVP.csprojResolveAssemblyReference.cache
+D:\Dropbox\TCC\Curitiba ViewPort - Modulo Ônibus\Assets\ClientProxies\WCFCVP\obj\Debug\WCFCVP.dll
+D:\Dropbox\TCC\Curitiba ViewPort - Modulo Ônibus\Assets\ClientProxies\WCFCVP\obj\Debug\WCFCVP.pdb

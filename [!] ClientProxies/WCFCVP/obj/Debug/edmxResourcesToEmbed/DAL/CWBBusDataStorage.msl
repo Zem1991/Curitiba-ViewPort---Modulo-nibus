@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="CVP_PosicaoOnibusModelStoreContainer" CdmEntityContainer="CVP_PosicaoOnibusEntities">
+    <EntitySetMapping Name="PosicaoGPS">
+      <EntityTypeMapping TypeName="CVP_PosicaoOnibusModel.PosicaoGPS">
+        <MappingFragment StoreEntitySet="PosicaoGPS">
+          <ScalarProperty Name="PGPS_ID" ColumnName="PGPS_ID" />
+          <ScalarProperty Name="VEIC" ColumnName="VEIC" />
+          <ScalarProperty Name="LAT" ColumnName="LAT" />
+          <ScalarProperty Name="LON" ColumnName="LON" />
+          <ScalarProperty Name="DTHR" ColumnName="DTHR" />
+          <ScalarProperty Name="COD_LINHA" ColumnName="COD_LINHA" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
